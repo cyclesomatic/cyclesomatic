@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @cyclesomatic
+- 👀 I’m interested in coding fundamentals and progress from there...
+- 🌱 I’m currently learning on my own...
+- 📫 ping me here...
+
+<!---
+cyclesomatic/cyclesomatic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
